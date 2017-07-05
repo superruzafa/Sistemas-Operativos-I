@@ -1,13 +1,13 @@
 Planificador de Sistema Operativo
 =================================
 
-Sistemas Operativos I
-Ingeniería Técnica en Informática de Sistemas
-Curso 2000/2001
+* Sistemas Operativos I
+* Ingeniería Técnica en Informática de Sistemas
+* Curso 2000/2001
 
-Alfonso Ruzafa Molina
-Alejandro Sola Vázquez
-3º A
+* Alfonso Ruzafa Molina
+* Alejandro Sola Vázquez
+* 3º A
 
 Pantalla de carga
 -----------------
