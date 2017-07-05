@@ -1,0 +1,16 @@
+Datos de la simulacion:
+-----------------------
+    Archivo de carga: carga98.sch
+    Simulacion: Multiproceso sin prioridad
+    Politica: Round Robin
+    Quantum: 12
+    Gestor de memoria: Paginaci¢n
+    TIO: 5
+    Memoria: 29999
+
+Productividad:
+--------------
+    N§ de procesos simulados: 100
+    Tiempo simulacion: 5758
+    Productividad: 17,367 x 1000
+
